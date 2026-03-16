@@ -47,10 +47,10 @@ export default function Footer() {
           <div>
             <h3 className="font-serif text-lg font-semibold mb-6 text-white after:content-[''] after:block after:w-12 after:h-0.5 after:bg-luxury-gold after:mt-2">Popular Tours</h3>
             <ul className="space-y-3">
-              <li><Link href="/tours/golden-triangle" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Golden Triangle Tour</Link></li>
+              <li><Link href="/tours/golden-triangle-package" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Golden Triangle Tour</Link></li>
               <li><Link href="/tours/char-dham-yatra" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Char Dham Yatra</Link></li>
-              <li><Link href="/tours/rajasthan" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Rajasthan Package</Link></li>
-              <li><Link href="/tours/himachal" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Himachal Package</Link></li>
+              <li><Link href="/tours/rajasthan-package" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Rajasthan Package</Link></li>
+              <li><Link href="/tours/himachal-package" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Himachal Package</Link></li>
               <li><Link href="/tours/buddhist-circuit" className="text-gray-400 hover:text-luxury-gold transition-colors flex items-center"><span className="mr-2 text-luxury-gold">›</span> Buddhist Circuit</Link></li>
             </ul>
           </div>
